@@ -1,4 +1,4 @@
-# IoT Test Generation Supplementary Materials
+# IoT Test Generation Supplementary Materials [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This [repository](https://drive.google.com/drive/folders/1G9Yl4pXZmT0M8ufoQDo69pzQvAtAknKh?usp=sharing) provides links to the supplementary materials for the paper 
 *Test Generation from Use Case Specifications for IoT Systems: Custom, LLM-Based, and Hybrid Approaches*.
