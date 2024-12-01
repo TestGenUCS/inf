@@ -7,5 +7,9 @@ This [repository](https://drive.google.com/drive/folders/1G9Yl4pXZmT0M8ufoQDo69p
 - **Further Explanations and details**: [Google Doc](https://docs.google.com/document/d/1CUZMJmEAzzt8oBkLP5fc7vN_SRxAuROAb9U_i5c571Q/edit?usp=sharing)
 - **Prompts**: [Google Drive Folder](https://drive.google.com/drive/folders/1Lq6Ja64SY7NHnnRh6iHJNlk3VObKHDqL?usp=sharing)
 
+
 ## Contact
 For access to the code or further inquiries, please contact [testgenerationUCS@gmail.com](mailto:testgenerationUCS@gmail.com).
+
+## Notice
+This repository, its contents and linked materials have been prepared to comply with the double anonymity submission guidelines for ICST 2025.
