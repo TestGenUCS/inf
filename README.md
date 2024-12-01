@@ -12,4 +12,4 @@ This [repository](https://drive.google.com/drive/folders/1G9Yl4pXZmT0M8ufoQDo69p
 For access to the code or further inquiries, please contact [testgenerationUCS@gmail.com](mailto:testgenerationUCS@gmail.com).
 
 ## Notice
-This repository, its contents and linked materials have been prepared to comply with the double anonymity submission guidelines for ICST 2025.
+This repository, its contents and linked materials have been prepared to comply with the double anonymity submission guidelines.
